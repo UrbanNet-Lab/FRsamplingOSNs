@@ -6,6 +6,6 @@ intervals, whose sampling probability adaptively adjust with its real time targe
 follows:
 1) We propose and verify two fast adaptive methods (adpUNI and adpUNI+N) to overcome the defects of UNI which is of low efficiency, this is important for sampling large scale OSNs.
 2) The subgraph obtained by our methods is of much higher representativeness and connectivity than UNI, which is more important for practical applications, since eventually we need to give a representative subgraph to end-users.
-3) In the paper, we also reveal the relationship of three key concepts involved in all sampling methods: perfect uniformity can ensure an unbiased sampling of nodes, but not necessarily a more representative sampled subgraph.
+3) In the paper, we also reveal the relationship of three key concepts involved in all sampling methods: perfect uniformity can ensure an unbiased sampling of nodes, but not necessarily a more representative sampled subgraph.
 
 the above files are all the programs used in the paper, including sampling methods and data processing.
