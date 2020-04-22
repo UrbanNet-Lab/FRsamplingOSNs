@@ -1,5 +1,5 @@
-# FRsamplingOSNs
-Fast representative sampling on large-scale OSNs
+# Fast Representative Sampling in Large-Scale Online Social Networks (OSNs)
+# IEEE Access, in press
 
 In this article, we proposed some fast representative sampling methods (adpUNI and adpUNI+N) when dealing with large-scale OSNs, which have significant improvement on sampling efficiency and performance based on the observation of heterogeneous userID space. The key idea of our methods are dividing the entire userID space into several equal-length
 intervals, whose sampling probability adaptively adjust with its real time target rate.The contributions of this paper are as
